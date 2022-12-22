@@ -35,7 +35,7 @@ function App() {
   }
   return (
     <Suspense fallback={<div>loading...</div>}>
-    <div className={`bg-cactus bg-fixed bg-center bg-no-repeat bg-cover box-border scroll-smooth pb-24`}>
+    <div className={` box-border scroll-smooth pb-24`}>
       <h1 className="text-bluepastel text-7xl xl:text-8xl font-thin text-center underline underline-offset-4 decoration-4 decoration-slate-400 decoration-wavy first-letter:font-medium antialiased">
         Cactus
       </h1>
