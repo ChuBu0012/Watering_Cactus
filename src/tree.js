@@ -55,13 +55,6 @@ var tree = [
         water: "10/4/2023",
     },
     {
-        id: 11,
-        Date: 0,
-        Month: 0,
-        name: "น้องกระรอก",
-        water: "10/4/2023",
-    },
-    {
         id: 12,
         Date: 0,
         Month: 0,
@@ -122,7 +115,7 @@ var tree = [
         id: 15,
         Date: 0,
         Month: 0,
-        name: "น้องยิม(2)",
+        name: "น้องยิม",
         water: "12/4/2023",
     },
     {
